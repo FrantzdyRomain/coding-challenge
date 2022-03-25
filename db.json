@@ -1,8 +1,8 @@
 {
   "classroom_seats": [
-    { "id": 1, assigned: 3 },
-    { "id": 2, assigned: 2},
-    { "id": 3, assignedTo: 1}
+    { "id": 1, "assigned": 3 },
+    { "id": 2, "assigned": 2},
+    { "id": 3, "assigned": 1}
   ],
   "students": [
     { "id": 1, "firstname": "john", "lastname":"doe" },
